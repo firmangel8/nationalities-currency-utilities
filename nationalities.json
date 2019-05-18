@@ -1,0 +1,1745 @@
+[
+  {
+    "dial_code": "4",
+    "code": "AF",
+    "alpha_3_code": "AFG",
+    "en_short_name": "Afghanistan",
+    "name": "Afghan"
+  },
+  {
+    "dial_code": "248",
+    "code": "AX",
+    "alpha_3_code": "ALA",
+    "en_short_name": "\u00c5land Islands",
+    "name": "\u00c5land Island"
+  },
+  {
+    "dial_code": "8",
+    "code": "AL",
+    "alpha_3_code": "ALB",
+    "en_short_name": "Albania",
+    "name": "Albanian"
+  },
+  {
+    "dial_code": "12",
+    "code": "DZ",
+    "alpha_3_code": "DZA",
+    "en_short_name": "Algeria",
+    "name": "Algerian"
+  },
+  {
+    "dial_code": "16",
+    "code": "AS",
+    "alpha_3_code": "ASM",
+    "en_short_name": "American Samoa",
+    "name": "American Samoan"
+  },
+  {
+    "dial_code": "20",
+    "code": "AD",
+    "alpha_3_code": "AND",
+    "en_short_name": "Andorra",
+    "name": "Andorran"
+  },
+  {
+    "dial_code": "24",
+    "code": "AO",
+    "alpha_3_code": "AGO",
+    "en_short_name": "Angola",
+    "name": "Angolan"
+  },
+  {
+    "dial_code": "660",
+    "code": "AI",
+    "alpha_3_code": "AIA",
+    "en_short_name": "Anguilla",
+    "name": "Anguillan"
+  },
+  {
+    "dial_code": "10",
+    "code": "AQ",
+    "alpha_3_code": "ATA",
+    "en_short_name": "Antarctica",
+    "name": "Antarctic"
+  },
+  {
+    "dial_code": "28",
+    "code": "AG",
+    "alpha_3_code": "ATG",
+    "en_short_name": "Antigua and Barbuda",
+    "name": "Antiguan or Barbudan"
+  },
+  {
+    "dial_code": "32",
+    "code": "AR",
+    "alpha_3_code": "ARG",
+    "en_short_name": "Argentina",
+    "name": "Argentine"
+  },
+  {
+    "dial_code": "51",
+    "code": "AM",
+    "alpha_3_code": "ARM",
+    "en_short_name": "Armenia",
+    "name": "Armenian"
+  },
+  {
+    "dial_code": "533",
+    "code": "AW",
+    "alpha_3_code": "ABW",
+    "en_short_name": "Aruba",
+    "name": "Aruban"
+  },
+  {
+    "dial_code": "36",
+    "code": "AU",
+    "alpha_3_code": "AUS",
+    "en_short_name": "Australia",
+    "name": "Australian"
+  },
+  {
+    "dial_code": "40",
+    "code": "AT",
+    "alpha_3_code": "AUT",
+    "en_short_name": "Austria",
+    "name": "Austrian"
+  },
+  {
+    "dial_code": "31",
+    "code": "AZ",
+    "alpha_3_code": "AZE",
+    "en_short_name": "Azerbaijan",
+    "name": "Azerbaijani, Azeri"
+  },
+  {
+    "dial_code": "44",
+    "code": "BS",
+    "alpha_3_code": "BHS",
+    "en_short_name": "Bahamas",
+    "name": "Bahamian"
+  },
+  {
+    "dial_code": "48",
+    "code": "BH",
+    "alpha_3_code": "BHR",
+    "en_short_name": "Bahrain",
+    "name": "Bahraini"
+  },
+  {
+    "dial_code": "50",
+    "code": "BD",
+    "alpha_3_code": "BGD",
+    "en_short_name": "Bangladesh",
+    "name": "Bangladeshi"
+  },
+  {
+    "dial_code": "52",
+    "code": "BB",
+    "alpha_3_code": "BRB",
+    "en_short_name": "Barbados",
+    "name": "Barbadian"
+  },
+  {
+    "dial_code": "112",
+    "code": "BY",
+    "alpha_3_code": "BLR",
+    "en_short_name": "Belarus",
+    "name": "Belarusian"
+  },
+  {
+    "dial_code": "56",
+    "code": "BE",
+    "alpha_3_code": "BEL",
+    "en_short_name": "Belgium",
+    "name": "Belgian"
+  },
+  {
+    "dial_code": "84",
+    "code": "BZ",
+    "alpha_3_code": "BLZ",
+    "en_short_name": "Belize",
+    "name": "Belizean"
+  },
+  {
+    "dial_code": "204",
+    "code": "BJ",
+    "alpha_3_code": "BEN",
+    "en_short_name": "Benin",
+    "name": "Beninese, Beninois"
+  },
+  {
+    "dial_code": "60",
+    "code": "BM",
+    "alpha_3_code": "BMU",
+    "en_short_name": "Bermuda",
+    "name": "Bermudian, Bermudan"
+  },
+  {
+    "dial_code": "64",
+    "code": "BT",
+    "alpha_3_code": "BTN",
+    "en_short_name": "Bhutan",
+    "name": "Bhutanese"
+  },
+  {
+    "dial_code": "68",
+    "code": "BO",
+    "alpha_3_code": "BOL",
+    "en_short_name": "Bolivia (Plurinational State of)",
+    "name": "Bolivian"
+  },
+  {
+    "dial_code": "535",
+    "code": "BQ",
+    "alpha_3_code": "BES",
+    "en_short_name": "Bonaire, Sint Eustatius and Saba",
+    "name": "Bonaire"
+  },
+  {
+    "dial_code": "70",
+    "code": "BA",
+    "alpha_3_code": "BIH",
+    "en_short_name": "Bosnia and Herzegovina",
+    "name": "Bosnian or Herzegovinian"
+  },
+  {
+    "dial_code": "72",
+    "code": "BW",
+    "alpha_3_code": "BWA",
+    "en_short_name": "Botswana",
+    "name": "Motswana, Botswanan"
+  },
+  {
+    "dial_code": "74",
+    "code": "BV",
+    "alpha_3_code": "BVT",
+    "en_short_name": "Bouvet Island",
+    "name": "Bouvet Island"
+  },
+  {
+    "dial_code": "76",
+    "code": "BR",
+    "alpha_3_code": "BRA",
+    "en_short_name": "Brazil",
+    "name": "Brazilian"
+  },
+  {
+    "dial_code": "86",
+    "code": "IO",
+    "alpha_3_code": "IOT",
+    "en_short_name": "British Indian Ocean Territory",
+    "name": "BIOT"
+  },
+  {
+    "dial_code": "96",
+    "code": "BN",
+    "alpha_3_code": "BRN",
+    "en_short_name": "Brunei Darussalam",
+    "name": "Bruneian"
+  },
+  {
+    "dial_code": "100",
+    "code": "BG",
+    "alpha_3_code": "BGR",
+    "en_short_name": "Bulgaria",
+    "name": "Bulgarian"
+  },
+  {
+    "dial_code": "854",
+    "code": "BF",
+    "alpha_3_code": "BFA",
+    "en_short_name": "Burkina Faso",
+    "name": "Burkinab\u00e9"
+  },
+  {
+    "dial_code": "108",
+    "code": "BI",
+    "alpha_3_code": "BDI",
+    "en_short_name": "Burundi",
+    "name": "Burundian"
+  },
+  {
+    "dial_code": "132",
+    "code": "CV",
+    "alpha_3_code": "CPV",
+    "en_short_name": "Cabo Verde",
+    "name": "Cabo Verdean"
+  },
+  {
+    "dial_code": "116",
+    "code": "KH",
+    "alpha_3_code": "KHM",
+    "en_short_name": "Cambodia",
+    "name": "Cambodian"
+  },
+  {
+    "dial_code": "120",
+    "code": "CM",
+    "alpha_3_code": "CMR",
+    "en_short_name": "Cameroon",
+    "name": "Cameroonian"
+  },
+  {
+    "dial_code": "124",
+    "code": "CA",
+    "alpha_3_code": "CAN",
+    "en_short_name": "Canada",
+    "name": "Canadian"
+  },
+  {
+    "dial_code": "136",
+    "code": "KY",
+    "alpha_3_code": "CYM",
+    "en_short_name": "Cayman Islands",
+    "name": "Caymanian"
+  },
+  {
+    "dial_code": "140",
+    "code": "CF",
+    "alpha_3_code": "CAF",
+    "en_short_name": "Central African Republic",
+    "name": "Central African"
+  },
+  {
+    "dial_code": "148",
+    "code": "TD",
+    "alpha_3_code": "TCD",
+    "en_short_name": "Chad",
+    "name": "Chadian"
+  },
+  {
+    "dial_code": "152",
+    "code": "CL",
+    "alpha_3_code": "CHL",
+    "en_short_name": "Chile",
+    "name": "Chilean"
+  },
+  {
+    "dial_code": "156",
+    "code": "CN",
+    "alpha_3_code": "CHN",
+    "en_short_name": "China",
+    "name": "Chinese"
+  },
+  {
+    "dial_code": "162",
+    "code": "CX",
+    "alpha_3_code": "CXR",
+    "en_short_name": "Christmas Island",
+    "name": "Christmas Island"
+  },
+  {
+    "dial_code": "166",
+    "code": "CC",
+    "alpha_3_code": "CCK",
+    "en_short_name": "Cocos (Keeling) Islands",
+    "name": "Cocos Island"
+  },
+  {
+    "dial_code": "170",
+    "code": "CO",
+    "alpha_3_code": "COL",
+    "en_short_name": "Colombia",
+    "name": "Colombian"
+  },
+  {
+    "dial_code": "174",
+    "code": "KM",
+    "alpha_3_code": "COM",
+    "en_short_name": "Comoros",
+    "name": "Comoran, Comorian"
+  },
+  {
+    "dial_code": "178",
+    "code": "CG",
+    "alpha_3_code": "COG",
+    "en_short_name": "Congo (Republic of the)",
+    "name": "Congolese"
+  },
+  {
+    "dial_code": "180",
+    "code": "CD",
+    "alpha_3_code": "COD",
+    "en_short_name": "Congo (Democratic Republic of the)",
+    "name": "Congolese"
+  },
+  {
+    "dial_code": "184",
+    "code": "CK",
+    "alpha_3_code": "COK",
+    "en_short_name": "Cook Islands",
+    "name": "Cook Island"
+  },
+  {
+    "dial_code": "188",
+    "code": "CR",
+    "alpha_3_code": "CRI",
+    "en_short_name": "Costa Rica",
+    "name": "Costa Rican"
+  },
+  {
+    "dial_code": "384",
+    "code": "CI",
+    "alpha_3_code": "CIV",
+    "en_short_name": "C\u00f4te d'Ivoire",
+    "name": "Ivorian"
+  },
+  {
+    "dial_code": "191",
+    "code": "HR",
+    "alpha_3_code": "HRV",
+    "en_short_name": "Croatia",
+    "name": "Croatian"
+  },
+  {
+    "dial_code": "192",
+    "code": "CU",
+    "alpha_3_code": "CUB",
+    "en_short_name": "Cuba",
+    "name": "Cuban"
+  },
+  {
+    "dial_code": "531",
+    "code": "CW",
+    "alpha_3_code": "CUW",
+    "en_short_name": "Cura\u00e7ao",
+    "name": "Cura\u00e7aoan"
+  },
+  {
+    "dial_code": "196",
+    "code": "CY",
+    "alpha_3_code": "CYP",
+    "en_short_name": "Cyprus",
+    "name": "Cypriot"
+  },
+  {
+    "dial_code": "203",
+    "code": "CZ",
+    "alpha_3_code": "CZE",
+    "en_short_name": "Czech Republic",
+    "name": "Czech"
+  },
+  {
+    "dial_code": "208",
+    "code": "DK",
+    "alpha_3_code": "DNK",
+    "en_short_name": "Denmark",
+    "name": "Danish"
+  },
+  {
+    "dial_code": "262",
+    "code": "DJ",
+    "alpha_3_code": "DJI",
+    "en_short_name": "Djibouti",
+    "name": "Djiboutian"
+  },
+  {
+    "dial_code": "212",
+    "code": "DM",
+    "alpha_3_code": "DMA",
+    "en_short_name": "Dominica",
+    "name": "Dominican"
+  },
+  {
+    "dial_code": "214",
+    "code": "DO",
+    "alpha_3_code": "DOM",
+    "en_short_name": "Dominican Republic",
+    "name": "Dominican"
+  },
+  {
+    "dial_code": "218",
+    "code": "EC",
+    "alpha_3_code": "ECU",
+    "en_short_name": "Ecuador",
+    "name": "Ecuadorian"
+  },
+  {
+    "dial_code": "818",
+    "code": "EG",
+    "alpha_3_code": "EGY",
+    "en_short_name": "Egypt",
+    "name": "Egyptian"
+  },
+  {
+    "dial_code": "222",
+    "code": "SV",
+    "alpha_3_code": "SLV",
+    "en_short_name": "El Salvador",
+    "name": "Salvadoran"
+  },
+  {
+    "dial_code": "226",
+    "code": "GQ",
+    "alpha_3_code": "GNQ",
+    "en_short_name": "Equatorial Guinea",
+    "name": "Equatorial Guinean, Equatoguinean"
+  },
+  {
+    "dial_code": "232",
+    "code": "ER",
+    "alpha_3_code": "ERI",
+    "en_short_name": "Eritrea",
+    "name": "Eritrean"
+  },
+  {
+    "dial_code": "233",
+    "code": "EE",
+    "alpha_3_code": "EST",
+    "en_short_name": "Estonia",
+    "name": "Estonian"
+  },
+  {
+    "dial_code": "231",
+    "code": "ET",
+    "alpha_3_code": "ETH",
+    "en_short_name": "Ethiopia",
+    "name": "Ethiopian"
+  },
+  {
+    "dial_code": "238",
+    "code": "FK",
+    "alpha_3_code": "FLK",
+    "en_short_name": "Falkland Islands (Malvinas)",
+    "name": "Falkland Island"
+  },
+  {
+    "dial_code": "234",
+    "code": "FO",
+    "alpha_3_code": "FRO",
+    "en_short_name": "Faroe Islands",
+    "name": "Faroese"
+  },
+  {
+    "dial_code": "242",
+    "code": "FJ",
+    "alpha_3_code": "FJI",
+    "en_short_name": "Fiji",
+    "name": "Fijian"
+  },
+  {
+    "dial_code": "246",
+    "code": "FI",
+    "alpha_3_code": "FIN",
+    "en_short_name": "Finland",
+    "name": "Finnish"
+  },
+  {
+    "dial_code": "250",
+    "code": "FR",
+    "alpha_3_code": "FRA",
+    "en_short_name": "France",
+    "name": "French"
+  },
+  {
+    "dial_code": "254",
+    "code": "GF",
+    "alpha_3_code": "GUF",
+    "en_short_name": "French Guiana",
+    "name": "French Guianese"
+  },
+  {
+    "dial_code": "258",
+    "code": "PF",
+    "alpha_3_code": "PYF",
+    "en_short_name": "French Polynesia",
+    "name": "French Polynesian"
+  },
+  {
+    "dial_code": "260",
+    "code": "TF",
+    "alpha_3_code": "ATF",
+    "en_short_name": "French Southern Territories",
+    "name": "French Southern Territories"
+  },
+  {
+    "dial_code": "266",
+    "code": "GA",
+    "alpha_3_code": "GAB",
+    "en_short_name": "Gabon",
+    "name": "Gabonese"
+  },
+  {
+    "dial_code": "270",
+    "code": "GM",
+    "alpha_3_code": "GMB",
+    "en_short_name": "Gambia",
+    "name": "Gambian"
+  },
+  {
+    "dial_code": "268",
+    "code": "GE",
+    "alpha_3_code": "GEO",
+    "en_short_name": "Georgia",
+    "name": "Georgian"
+  },
+  {
+    "dial_code": "276",
+    "code": "DE",
+    "alpha_3_code": "DEU",
+    "en_short_name": "Germany",
+    "name": "German"
+  },
+  {
+    "dial_code": "288",
+    "code": "GH",
+    "alpha_3_code": "GHA",
+    "en_short_name": "Ghana",
+    "name": "Ghanaian"
+  },
+  {
+    "dial_code": "292",
+    "code": "GI",
+    "alpha_3_code": "GIB",
+    "en_short_name": "Gibraltar",
+    "name": "Gibraltar"
+  },
+  {
+    "dial_code": "300",
+    "code": "GR",
+    "alpha_3_code": "GRC",
+    "en_short_name": "Greece",
+    "name": "Greek, Hellenic"
+  },
+  {
+    "dial_code": "304",
+    "code": "GL",
+    "alpha_3_code": "GRL",
+    "en_short_name": "Greenland",
+    "name": "Greenlandic"
+  },
+  {
+    "dial_code": "308",
+    "code": "GD",
+    "alpha_3_code": "GRD",
+    "en_short_name": "Grenada",
+    "name": "Grenadian"
+  },
+  {
+    "dial_code": "312",
+    "code": "GP",
+    "alpha_3_code": "GLP",
+    "en_short_name": "Guadeloupe",
+    "name": "Guadeloupe"
+  },
+  {
+    "dial_code": "316",
+    "code": "GU",
+    "alpha_3_code": "GUM",
+    "en_short_name": "Guam",
+    "name": "Guamanian, Guambat"
+  },
+  {
+    "dial_code": "320",
+    "code": "GT",
+    "alpha_3_code": "GTM",
+    "en_short_name": "Guatemala",
+    "name": "Guatemalan"
+  },
+  {
+    "dial_code": "831",
+    "code": "GG",
+    "alpha_3_code": "GGY",
+    "en_short_name": "Guernsey",
+    "name": "Channel Island"
+  },
+  {
+    "dial_code": "324",
+    "code": "GN",
+    "alpha_3_code": "GIN",
+    "en_short_name": "Guinea",
+    "name": "Guinean"
+  },
+  {
+    "dial_code": "624",
+    "code": "GW",
+    "alpha_3_code": "GNB",
+    "en_short_name": "Guinea-Bissau",
+    "name": "Bissau-Guinean"
+  },
+  {
+    "dial_code": "328",
+    "code": "GY",
+    "alpha_3_code": "GUY",
+    "en_short_name": "Guyana",
+    "name": "Guyanese"
+  },
+  {
+    "dial_code": "332",
+    "code": "HT",
+    "alpha_3_code": "HTI",
+    "en_short_name": "Haiti",
+    "name": "Haitian"
+  },
+  {
+    "dial_code": "334",
+    "code": "HM",
+    "alpha_3_code": "HMD",
+    "en_short_name": "Heard Island and McDonald Islands",
+    "name": "Heard Island or McDonald Islands"
+  },
+  {
+    "dial_code": "336",
+    "code": "VA",
+    "alpha_3_code": "VAT",
+    "en_short_name": "Vatican City State",
+    "name": "Vatican"
+  },
+  {
+    "dial_code": "340",
+    "code": "HN",
+    "alpha_3_code": "HND",
+    "en_short_name": "Honduras",
+    "name": "Honduran"
+  },
+  {
+    "dial_code": "344",
+    "code": "HK",
+    "alpha_3_code": "HKG",
+    "en_short_name": "Hong Kong",
+    "name": "Hong Kong, Hong Kongese"
+  },
+  {
+    "dial_code": "348",
+    "code": "HU",
+    "alpha_3_code": "HUN",
+    "en_short_name": "Hungary",
+    "name": "Hungarian, Magyar"
+  },
+  {
+    "dial_code": "352",
+    "code": "IS",
+    "alpha_3_code": "ISL",
+    "en_short_name": "Iceland",
+    "name": "Icelandic"
+  },
+  {
+    "dial_code": "356",
+    "code": "IN",
+    "alpha_3_code": "IND",
+    "en_short_name": "India",
+    "name": "Indian"
+  },
+  {
+    "dial_code": "360",
+    "code": "ID",
+    "alpha_3_code": "IDN",
+    "en_short_name": "Indonesia",
+    "name": "Indonesian"
+  },
+  {
+    "dial_code": "364",
+    "code": "IR",
+    "alpha_3_code": "IRN",
+    "en_short_name": "Iran",
+    "name": "Iranian, Persian"
+  },
+  {
+    "dial_code": "368",
+    "code": "IQ",
+    "alpha_3_code": "IRQ",
+    "en_short_name": "Iraq",
+    "name": "Iraqi"
+  },
+  {
+    "dial_code": "372",
+    "code": "IE",
+    "alpha_3_code": "IRL",
+    "en_short_name": "Ireland",
+    "name": "Irish"
+  },
+  {
+    "dial_code": "833",
+    "code": "IM",
+    "alpha_3_code": "IMN",
+    "en_short_name": "Isle of Man",
+    "name": "Manx"
+  },
+  {
+    "dial_code": "376",
+    "code": "IL",
+    "alpha_3_code": "ISR",
+    "en_short_name": "Israel",
+    "name": "Israeli"
+  },
+  {
+    "dial_code": "380",
+    "code": "IT",
+    "alpha_3_code": "ITA",
+    "en_short_name": "Italy",
+    "name": "Italian"
+  },
+  {
+    "dial_code": "388",
+    "code": "JM",
+    "alpha_3_code": "JAM",
+    "en_short_name": "Jamaica",
+    "name": "Jamaican"
+  },
+  {
+    "dial_code": "392",
+    "code": "JP",
+    "alpha_3_code": "JPN",
+    "en_short_name": "Japan",
+    "name": "Japanese"
+  },
+  {
+    "dial_code": "832",
+    "code": "JE",
+    "alpha_3_code": "JEY",
+    "en_short_name": "Jersey",
+    "name": "Channel Island"
+  },
+  {
+    "dial_code": "400",
+    "code": "JO",
+    "alpha_3_code": "JOR",
+    "en_short_name": "Jordan",
+    "name": "Jordanian"
+  },
+  {
+    "dial_code": "398",
+    "code": "KZ",
+    "alpha_3_code": "KAZ",
+    "en_short_name": "Kazakhstan",
+    "name": "Kazakhstani, Kazakh"
+  },
+  {
+    "dial_code": "404",
+    "code": "KE",
+    "alpha_3_code": "KEN",
+    "en_short_name": "Kenya",
+    "name": "Kenyan"
+  },
+  {
+    "dial_code": "296",
+    "code": "KI",
+    "alpha_3_code": "KIR",
+    "en_short_name": "Kiribati",
+    "name": "I-Kiribati"
+  },
+  {
+    "dial_code": "408",
+    "code": "KP",
+    "alpha_3_code": "PRK",
+    "en_short_name": "Korea (Democratic People's Republic of)",
+    "name": "North Korean"
+  },
+  {
+    "dial_code": "410",
+    "code": "KR",
+    "alpha_3_code": "KOR",
+    "en_short_name": "Korea (Republic of)",
+    "name": "South Korean"
+  },
+  {
+    "dial_code": "414",
+    "code": "KW",
+    "alpha_3_code": "KWT",
+    "en_short_name": "Kuwait",
+    "name": "Kuwaiti"
+  },
+  {
+    "dial_code": "417",
+    "code": "KG",
+    "alpha_3_code": "KGZ",
+    "en_short_name": "Kyrgyzstan",
+    "name": "Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz"
+  },
+  {
+    "dial_code": "418",
+    "code": "LA",
+    "alpha_3_code": "LAO",
+    "en_short_name": "Lao People's Democratic Republic",
+    "name": "Lao, Laotian"
+  },
+  {
+    "dial_code": "428",
+    "code": "LV",
+    "alpha_3_code": "LVA",
+    "en_short_name": "Latvia",
+    "name": "Latvian"
+  },
+  {
+    "dial_code": "422",
+    "code": "LB",
+    "alpha_3_code": "LBN",
+    "en_short_name": "Lebanon",
+    "name": "Lebanese"
+  },
+  {
+    "dial_code": "426",
+    "code": "LS",
+    "alpha_3_code": "LSO",
+    "en_short_name": "Lesotho",
+    "name": "Basotho"
+  },
+  {
+    "dial_code": "430",
+    "code": "LR",
+    "alpha_3_code": "LBR",
+    "en_short_name": "Liberia",
+    "name": "Liberian"
+  },
+  {
+    "dial_code": "434",
+    "code": "LY",
+    "alpha_3_code": "LBY",
+    "en_short_name": "Libya",
+    "name": "Libyan"
+  },
+  {
+    "dial_code": "438",
+    "code": "LI",
+    "alpha_3_code": "LIE",
+    "en_short_name": "Liechtenstein",
+    "name": "Liechtenstein"
+  },
+  {
+    "dial_code": "440",
+    "code": "LT",
+    "alpha_3_code": "LTU",
+    "en_short_name": "Lithuania",
+    "name": "Lithuanian"
+  },
+  {
+    "dial_code": "442",
+    "code": "LU",
+    "alpha_3_code": "LUX",
+    "en_short_name": "Luxembourg",
+    "name": "Luxembourg, Luxembourgish"
+  },
+  {
+    "dial_code": "446",
+    "code": "MO",
+    "alpha_3_code": "MAC",
+    "en_short_name": "Macao",
+    "name": "Macanese, Chinese"
+  },
+  {
+    "dial_code": "807",
+    "code": "MK",
+    "alpha_3_code": "MKD",
+    "en_short_name": "Macedonia (the former Yugoslav Republic of)",
+    "name": "Macedonian"
+  },
+  {
+    "dial_code": "450",
+    "code": "MG",
+    "alpha_3_code": "MDG",
+    "en_short_name": "Madagascar",
+    "name": "Malagasy"
+  },
+  {
+    "dial_code": "454",
+    "code": "MW",
+    "alpha_3_code": "MWI",
+    "en_short_name": "Malawi",
+    "name": "Malawian"
+  },
+  {
+    "dial_code": "458",
+    "code": "MY",
+    "alpha_3_code": "MYS",
+    "en_short_name": "Malaysia",
+    "name": "Malaysian"
+  },
+  {
+    "dial_code": "462",
+    "code": "MV",
+    "alpha_3_code": "MDV",
+    "en_short_name": "Maldives",
+    "name": "Maldivian"
+  },
+  {
+    "dial_code": "466",
+    "code": "ML",
+    "alpha_3_code": "MLI",
+    "en_short_name": "Mali",
+    "name": "Malian, Malinese"
+  },
+  {
+    "dial_code": "470",
+    "code": "MT",
+    "alpha_3_code": "MLT",
+    "en_short_name": "Malta",
+    "name": "Maltese"
+  },
+  {
+    "dial_code": "584",
+    "code": "MH",
+    "alpha_3_code": "MHL",
+    "en_short_name": "Marshall Islands",
+    "name": "Marshallese"
+  },
+  {
+    "dial_code": "474",
+    "code": "MQ",
+    "alpha_3_code": "MTQ",
+    "en_short_name": "Martinique",
+    "name": "Martiniquais, Martinican"
+  },
+  {
+    "dial_code": "478",
+    "code": "MR",
+    "alpha_3_code": "MRT",
+    "en_short_name": "Mauritania",
+    "name": "Mauritanian"
+  },
+  {
+    "dial_code": "480",
+    "code": "MU",
+    "alpha_3_code": "MUS",
+    "en_short_name": "Mauritius",
+    "name": "Mauritian"
+  },
+  {
+    "dial_code": "175",
+    "code": "YT",
+    "alpha_3_code": "MYT",
+    "en_short_name": "Mayotte",
+    "name": "Mahoran"
+  },
+  {
+    "dial_code": "484",
+    "code": "MX",
+    "alpha_3_code": "MEX",
+    "en_short_name": "Mexico",
+    "name": "Mexican"
+  },
+  {
+    "dial_code": "583",
+    "code": "FM",
+    "alpha_3_code": "FSM",
+    "en_short_name": "Micronesia (Federated States of)",
+    "name": "Micronesian"
+  },
+  {
+    "dial_code": "498",
+    "code": "MD",
+    "alpha_3_code": "MDA",
+    "en_short_name": "Moldova (Republic of)",
+    "name": "Moldovan"
+  },
+  {
+    "dial_code": "492",
+    "code": "MC",
+    "alpha_3_code": "MCO",
+    "en_short_name": "Monaco",
+    "name": "Mon\u00e9gasque, Monacan"
+  },
+  {
+    "dial_code": "496",
+    "code": "MN",
+    "alpha_3_code": "MNG",
+    "en_short_name": "Mongolia",
+    "name": "Mongolian"
+  },
+  {
+    "dial_code": "499",
+    "code": "ME",
+    "alpha_3_code": "MNE",
+    "en_short_name": "Montenegro",
+    "name": "Montenegrin"
+  },
+  {
+    "dial_code": "500",
+    "code": "MS",
+    "alpha_3_code": "MSR",
+    "en_short_name": "Montserrat",
+    "name": "Montserratian"
+  },
+  {
+    "dial_code": "504",
+    "code": "MA",
+    "alpha_3_code": "MAR",
+    "en_short_name": "Morocco",
+    "name": "Moroccan"
+  },
+  {
+    "dial_code": "508",
+    "code": "MZ",
+    "alpha_3_code": "MOZ",
+    "en_short_name": "Mozambique",
+    "name": "Mozambican"
+  },
+  {
+    "dial_code": "104",
+    "code": "MM",
+    "alpha_3_code": "MMR",
+    "en_short_name": "Myanmar",
+    "name": "Burmese"
+  },
+  {
+    "dial_code": "516",
+    "code": "NA",
+    "alpha_3_code": "NAM",
+    "en_short_name": "Namibia",
+    "name": "Namibian"
+  },
+  {
+    "dial_code": "520",
+    "code": "NR",
+    "alpha_3_code": "NRU",
+    "en_short_name": "Nauru",
+    "name": "Nauruan"
+  },
+  {
+    "dial_code": "524",
+    "code": "NP",
+    "alpha_3_code": "NPL",
+    "en_short_name": "Nepal",
+    "name": "Nepali, Nepalese"
+  },
+  {
+    "dial_code": "528",
+    "code": "NL",
+    "alpha_3_code": "NLD",
+    "en_short_name": "Netherlands",
+    "name": "Dutch, Netherlandic"
+  },
+  {
+    "dial_code": "540",
+    "code": "NC",
+    "alpha_3_code": "NCL",
+    "en_short_name": "New Caledonia",
+    "name": "New Caledonian"
+  },
+  {
+    "dial_code": "554",
+    "code": "NZ",
+    "alpha_3_code": "NZL",
+    "en_short_name": "New Zealand",
+    "name": "New Zealand, NZ"
+  },
+  {
+    "dial_code": "558",
+    "code": "NI",
+    "alpha_3_code": "NIC",
+    "en_short_name": "Nicaragua",
+    "name": "Nicaraguan"
+  },
+  {
+    "dial_code": "562",
+    "code": "NE",
+    "alpha_3_code": "NER",
+    "en_short_name": "Niger",
+    "name": "Nigerien"
+  },
+  {
+    "dial_code": "566",
+    "code": "NG",
+    "alpha_3_code": "NGA",
+    "en_short_name": "Nigeria",
+    "name": "Nigerian"
+  },
+  {
+    "dial_code": "570",
+    "code": "NU",
+    "alpha_3_code": "NIU",
+    "en_short_name": "Niue",
+    "name": "Niuean"
+  },
+  {
+    "dial_code": "574",
+    "code": "NF",
+    "alpha_3_code": "NFK",
+    "en_short_name": "Norfolk Island",
+    "name": "Norfolk Island"
+  },
+  {
+    "dial_code": "580",
+    "code": "MP",
+    "alpha_3_code": "MNP",
+    "en_short_name": "Northern Mariana Islands",
+    "name": "Northern Marianan"
+  },
+  {
+    "dial_code": "578",
+    "code": "NO",
+    "alpha_3_code": "NOR",
+    "en_short_name": "Norway",
+    "name": "Norwegian"
+  },
+  {
+    "dial_code": "512",
+    "code": "OM",
+    "alpha_3_code": "OMN",
+    "en_short_name": "Oman",
+    "name": "Omani"
+  },
+  {
+    "dial_code": "586",
+    "code": "PK",
+    "alpha_3_code": "PAK",
+    "en_short_name": "Pakistan",
+    "name": "Pakistani"
+  },
+  {
+    "dial_code": "585",
+    "code": "PW",
+    "alpha_3_code": "PLW",
+    "en_short_name": "Palau",
+    "name": "Palauan"
+  },
+  {
+    "dial_code": "275",
+    "code": "PS",
+    "alpha_3_code": "PSE",
+    "en_short_name": "Palestine, State of",
+    "name": "Palestinian"
+  },
+  {
+    "dial_code": "591",
+    "code": "PA",
+    "alpha_3_code": "PAN",
+    "en_short_name": "Panama",
+    "name": "Panamanian"
+  },
+  {
+    "dial_code": "598",
+    "code": "PG",
+    "alpha_3_code": "PNG",
+    "en_short_name": "Papua New Guinea",
+    "name": "Papua New Guinean, Papuan"
+  },
+  {
+    "dial_code": "600",
+    "code": "PY",
+    "alpha_3_code": "PRY",
+    "en_short_name": "Paraguay",
+    "name": "Paraguayan"
+  },
+  {
+    "dial_code": "604",
+    "code": "PE",
+    "alpha_3_code": "PER",
+    "en_short_name": "Peru",
+    "name": "Peruvian"
+  },
+  {
+    "dial_code": "608",
+    "code": "PH",
+    "alpha_3_code": "PHL",
+    "en_short_name": "Philippines",
+    "name": "Philippine, Filipino"
+  },
+  {
+    "dial_code": "612",
+    "code": "PN",
+    "alpha_3_code": "PCN",
+    "en_short_name": "Pitcairn",
+    "name": "Pitcairn Island"
+  },
+  {
+    "dial_code": "616",
+    "code": "PL",
+    "alpha_3_code": "POL",
+    "en_short_name": "Poland",
+    "name": "Polish"
+  },
+  {
+    "dial_code": "620",
+    "code": "PT",
+    "alpha_3_code": "PRT",
+    "en_short_name": "Portugal",
+    "name": "Portuguese"
+  },
+  {
+    "dial_code": "630",
+    "code": "PR",
+    "alpha_3_code": "PRI",
+    "en_short_name": "Puerto Rico",
+    "name": "Puerto Rican"
+  },
+  {
+    "dial_code": "634",
+    "code": "QA",
+    "alpha_3_code": "QAT",
+    "en_short_name": "Qatar",
+    "name": "Qatari"
+  },
+  {
+    "dial_code": "638",
+    "code": "RE",
+    "alpha_3_code": "REU",
+    "en_short_name": "R\u00e9union",
+    "name": "R\u00e9unionese, R\u00e9unionnais"
+  },
+  {
+    "dial_code": "642",
+    "code": "RO",
+    "alpha_3_code": "ROU",
+    "en_short_name": "Romania",
+    "name": "Romanian"
+  },
+  {
+    "dial_code": "643",
+    "code": "RU",
+    "alpha_3_code": "RUS",
+    "en_short_name": "Russian Federation",
+    "name": "Russian"
+  },
+  {
+    "dial_code": "646",
+    "code": "RW",
+    "alpha_3_code": "RWA",
+    "en_short_name": "Rwanda",
+    "name": "Rwandan"
+  },
+  {
+    "dial_code": "652",
+    "code": "BL",
+    "alpha_3_code": "BLM",
+    "en_short_name": "Saint Barth\u00e9lemy",
+    "name": "Barth\u00e9lemois"
+  },
+  {
+    "dial_code": "654",
+    "code": "SH",
+    "alpha_3_code": "SHN",
+    "en_short_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "name": "Saint Helenian"
+  },
+  {
+    "dial_code": "659",
+    "code": "KN",
+    "alpha_3_code": "KNA",
+    "en_short_name": "Saint Kitts and Nevis",
+    "name": "Kittitian or Nevisian"
+  },
+  {
+    "dial_code": "662",
+    "code": "LC",
+    "alpha_3_code": "LCA",
+    "en_short_name": "Saint Lucia",
+    "name": "Saint Lucian"
+  },
+  {
+    "dial_code": "663",
+    "code": "MF",
+    "alpha_3_code": "MAF",
+    "en_short_name": "Saint Martin (French part)",
+    "name": "Saint-Martinoise"
+  },
+  {
+    "dial_code": "666",
+    "code": "PM",
+    "alpha_3_code": "SPM",
+    "en_short_name": "Saint Pierre and Miquelon",
+    "name": "Saint-Pierrais or Miquelonnais"
+  },
+  {
+    "dial_code": "670",
+    "code": "VC",
+    "alpha_3_code": "VCT",
+    "en_short_name": "Saint Vincent and the Grenadines",
+    "name": "Saint Vincentian, Vincentian"
+  },
+  {
+    "dial_code": "882",
+    "code": "WS",
+    "alpha_3_code": "WSM",
+    "en_short_name": "Samoa",
+    "name": "Samoan"
+  },
+  {
+    "dial_code": "674",
+    "code": "SM",
+    "alpha_3_code": "SMR",
+    "en_short_name": "San Marino",
+    "name": "Sammarinese"
+  },
+  {
+    "dial_code": "678",
+    "code": "ST",
+    "alpha_3_code": "STP",
+    "en_short_name": "Sao Tome and Principe",
+    "name": "S\u00e3o Tom\u00e9an"
+  },
+  {
+    "dial_code": "682",
+    "code": "SA",
+    "alpha_3_code": "SAU",
+    "en_short_name": "Saudi Arabia",
+    "name": "Saudi, Saudi Arabian"
+  },
+  {
+    "dial_code": "686",
+    "code": "SN",
+    "alpha_3_code": "SEN",
+    "en_short_name": "Senegal",
+    "name": "Senegalese"
+  },
+  {
+    "dial_code": "688",
+    "code": "RS",
+    "alpha_3_code": "SRB",
+    "en_short_name": "Serbia",
+    "name": "Serbian"
+  },
+  {
+    "dial_code": "690",
+    "code": "SC",
+    "alpha_3_code": "SYC",
+    "en_short_name": "Seychelles",
+    "name": "Seychellois"
+  },
+  {
+    "dial_code": "694",
+    "code": "SL",
+    "alpha_3_code": "SLE",
+    "en_short_name": "Sierra Leone",
+    "name": "Sierra Leonean"
+  },
+  {
+    "dial_code": "702",
+    "code": "SG",
+    "alpha_3_code": "SGP",
+    "en_short_name": "Singapore",
+    "name": "Singaporean"
+  },
+  {
+    "dial_code": "534",
+    "code": "SX",
+    "alpha_3_code": "SXM",
+    "en_short_name": "Sint Maarten (Dutch part)",
+    "name": "Sint Maarten"
+  },
+  {
+    "dial_code": "703",
+    "code": "SK",
+    "alpha_3_code": "SVK",
+    "en_short_name": "Slovakia",
+    "name": "Slovak"
+  },
+  {
+    "dial_code": "705",
+    "code": "SI",
+    "alpha_3_code": "SVN",
+    "en_short_name": "Slovenia",
+    "name": "Slovenian, Slovene"
+  },
+  {
+    "dial_code": "90",
+    "code": "SB",
+    "alpha_3_code": "SLB",
+    "en_short_name": "Solomon Islands",
+    "name": "Solomon Island"
+  },
+  {
+    "dial_code": "706",
+    "code": "SO",
+    "alpha_3_code": "SOM",
+    "en_short_name": "Somalia",
+    "name": "Somali, Somalian"
+  },
+  {
+    "dial_code": "710",
+    "code": "ZA",
+    "alpha_3_code": "ZAF",
+    "en_short_name": "South Africa",
+    "name": "South African"
+  },
+  {
+    "dial_code": "239",
+    "code": "GS",
+    "alpha_3_code": "SGS",
+    "en_short_name": "South Georgia and the South Sandwich Islands",
+    "name": "South Georgia or South Sandwich Islands"
+  },
+  {
+    "dial_code": "728",
+    "code": "SS",
+    "alpha_3_code": "SSD",
+    "en_short_name": "South Sudan",
+    "name": "South Sudanese"
+  },
+  {
+    "dial_code": "724",
+    "code": "ES",
+    "alpha_3_code": "ESP",
+    "en_short_name": "Spain",
+    "name": "Spanish"
+  },
+  {
+    "dial_code": "144",
+    "code": "LK",
+    "alpha_3_code": "LKA",
+    "en_short_name": "Sri Lanka",
+    "name": "Sri Lankan"
+  },
+  {
+    "dial_code": "729",
+    "code": "SD",
+    "alpha_3_code": "SDN",
+    "en_short_name": "Sudan",
+    "name": "Sudanese"
+  },
+  {
+    "dial_code": "740",
+    "code": "SR",
+    "alpha_3_code": "SUR",
+    "en_short_name": "Suriname",
+    "name": "Surinamese"
+  },
+  {
+    "dial_code": "744",
+    "code": "SJ",
+    "alpha_3_code": "SJM",
+    "en_short_name": "Svalbard and Jan Mayen",
+    "name": "Svalbard"
+  },
+  {
+    "dial_code": "748",
+    "code": "SZ",
+    "alpha_3_code": "SWZ",
+    "en_short_name": "Swaziland",
+    "name": "Swazi"
+  },
+  {
+    "dial_code": "752",
+    "code": "SE",
+    "alpha_3_code": "SWE",
+    "en_short_name": "Sweden",
+    "name": "Swedish"
+  },
+  {
+    "dial_code": "756",
+    "code": "CH",
+    "alpha_3_code": "CHE",
+    "en_short_name": "Switzerland",
+    "name": "Swiss"
+  },
+  {
+    "dial_code": "760",
+    "code": "SY",
+    "alpha_3_code": "SYR",
+    "en_short_name": "Syrian Arab Republic",
+    "name": "Syrian"
+  },
+  {
+    "dial_code": "158",
+    "code": "TW",
+    "alpha_3_code": "TWN",
+    "en_short_name": "Taiwan, Province of China",
+    "name": "Chinese, Taiwanese"
+  },
+  {
+    "dial_code": "762",
+    "code": "TJ",
+    "alpha_3_code": "TJK",
+    "en_short_name": "Tajikistan",
+    "name": "Tajikistani"
+  },
+  {
+    "dial_code": "834",
+    "code": "TZ",
+    "alpha_3_code": "TZA",
+    "en_short_name": "Tanzania, United Republic of",
+    "name": "Tanzanian"
+  },
+  {
+    "dial_code": "764",
+    "code": "TH",
+    "alpha_3_code": "THA",
+    "en_short_name": "Thailand",
+    "name": "Thai"
+  },
+  {
+    "dial_code": "626",
+    "code": "TL",
+    "alpha_3_code": "TLS",
+    "en_short_name": "Timor-Leste",
+    "name": "Timorese"
+  },
+  {
+    "dial_code": "768",
+    "code": "TG",
+    "alpha_3_code": "TGO",
+    "en_short_name": "Togo",
+    "name": "Togolese"
+  },
+  {
+    "dial_code": "772",
+    "code": "TK",
+    "alpha_3_code": "TKL",
+    "en_short_name": "Tokelau",
+    "name": "Tokelauan"
+  },
+  {
+    "dial_code": "776",
+    "code": "TO",
+    "alpha_3_code": "TON",
+    "en_short_name": "Tonga",
+    "name": "Tongan"
+  },
+  {
+    "dial_code": "780",
+    "code": "TT",
+    "alpha_3_code": "TTO",
+    "en_short_name": "Trinidad and Tobago",
+    "name": "Trinidadian or Tobagonian"
+  },
+  {
+    "dial_code": "788",
+    "code": "TN",
+    "alpha_3_code": "TUN",
+    "en_short_name": "Tunisia",
+    "name": "Tunisian"
+  },
+  {
+    "dial_code": "792",
+    "code": "TR",
+    "alpha_3_code": "TUR",
+    "en_short_name": "Turkey",
+    "name": "Turkish"
+  },
+  {
+    "dial_code": "795",
+    "code": "TM",
+    "alpha_3_code": "TKM",
+    "en_short_name": "Turkmenistan",
+    "name": "Turkmen"
+  },
+  {
+    "dial_code": "796",
+    "code": "TC",
+    "alpha_3_code": "TCA",
+    "en_short_name": "Turks and Caicos Islands",
+    "name": "Turks and Caicos Island"
+  },
+  {
+    "dial_code": "798",
+    "code": "TV",
+    "alpha_3_code": "TUV",
+    "en_short_name": "Tuvalu",
+    "name": "Tuvaluan"
+  },
+  {
+    "dial_code": "800",
+    "code": "UG",
+    "alpha_3_code": "UGA",
+    "en_short_name": "Uganda",
+    "name": "Ugandan"
+  },
+  {
+    "dial_code": "804",
+    "code": "UA",
+    "alpha_3_code": "UKR",
+    "en_short_name": "Ukraine",
+    "name": "Ukrainian"
+  },
+  {
+    "dial_code": "784",
+    "code": "AE",
+    "alpha_3_code": "ARE",
+    "en_short_name": "United Arab Emirates",
+    "name": "Emirati, Emirian, Emiri"
+  },
+  {
+    "dial_code": "826",
+    "code": "GB",
+    "alpha_3_code": "GBR",
+    "en_short_name": "United Kingdom of Great Britain and Northern Ireland",
+    "name": "British, UK"
+  },
+  {
+    "dial_code": "581",
+    "code": "UM",
+    "alpha_3_code": "UMI",
+    "en_short_name": "United States Minor Outlying Islands",
+    "name": "American"
+  },
+  {
+    "dial_code": "840",
+    "code": "US",
+    "alpha_3_code": "USA",
+    "en_short_name": "United States of America",
+    "name": "American"
+  },
+  {
+    "dial_code": "858",
+    "code": "UY",
+    "alpha_3_code": "URY",
+    "en_short_name": "Uruguay",
+    "name": "Uruguayan"
+  },
+  {
+    "dial_code": "860",
+    "code": "UZ",
+    "alpha_3_code": "UZB",
+    "en_short_name": "Uzbekistan",
+    "name": "Uzbekistani, Uzbek"
+  },
+  {
+    "dial_code": "548",
+    "code": "VU",
+    "alpha_3_code": "VUT",
+    "en_short_name": "Vanuatu",
+    "name": "Ni-Vanuatu, Vanuatuan"
+  },
+  {
+    "dial_code": "862",
+    "code": "VE",
+    "alpha_3_code": "VEN",
+    "en_short_name": "Venezuela (Bolivarian Republic of)",
+    "name": "Venezuelan"
+  },
+  {
+    "dial_code": "704",
+    "code": "VN",
+    "alpha_3_code": "VNM",
+    "en_short_name": "Vietnam",
+    "name": "Vietnamese"
+  },
+  {
+    "dial_code": "92",
+    "code": "VG",
+    "alpha_3_code": "VGB",
+    "en_short_name": "Virgin Islands (British)",
+    "name": "British Virgin Island"
+  },
+  {
+    "dial_code": "850",
+    "code": "VI",
+    "alpha_3_code": "VIR",
+    "en_short_name": "Virgin Islands (U.S.)",
+    "name": "U.S. Virgin Island"
+  },
+  {
+    "dial_code": "876",
+    "code": "WF",
+    "alpha_3_code": "WLF",
+    "en_short_name": "Wallis and Futuna",
+    "name": "Wallis and Futuna, Wallisian or Futunan"
+  },
+  {
+    "dial_code": "732",
+    "code": "EH",
+    "alpha_3_code": "ESH",
+    "en_short_name": "Western Sahara",
+    "name": "Sahrawi, Sahrawian, Sahraouian"
+  },
+  {
+    "dial_code": "887",
+    "code": "YE",
+    "alpha_3_code": "YEM",
+    "en_short_name": "Yemen",
+    "name": "Yemeni"
+  },
+  {
+    "dial_code": "894",
+    "code": "ZM",
+    "alpha_3_code": "ZMB",
+    "en_short_name": "Zambia",
+    "name": "Zambian"
+  },
+  {
+    "dial_code": "716",
+    "code": "ZW",
+    "alpha_3_code": "ZWE",
+    "en_short_name": "Zimbabwe",
+    "name": "Zimbabwean"
+  }
+]
